@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\CalcMix\CalcMix\bin\Debug\CalcMix.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\CalcMix\CalcMix\bin\Debug\CalcMix.exe
+c:\users\usuario\documents\visual studio 2015\Projects\CalcMix\CalcMix\bin\Debug\CalcMix.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\CalcMix\CalcMix\obj\Debug\CalcMix.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\CalcMix\CalcMix\obj\Debug\CalcMix.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\CalcMix\CalcMix\obj\Debug\CalcMix.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\CalcMix\CalcMix\obj\Debug\CalcMix.exe
+c:\users\usuario\documents\visual studio 2015\Projects\CalcMix\CalcMix\obj\Debug\CalcMix.pdb
+C:\Users\USUARIO\documents\visual studio 2015\Projects\CalcMix\CalcMix\obj\Debug\CalcMix.Form1.resources
